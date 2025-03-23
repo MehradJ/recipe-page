@@ -1,4 +1,4 @@
-# Simple Omelette Recipe Page
+# Simple Omelette Recipe Page (For Newbies)
 
 This project is a **recipe page** for a simple omelette, built using **HTML** and **CSS**. It presents an easy-to-follow recipe with ingredients, preparation steps, and nutritional information.
 
@@ -31,7 +31,10 @@ This project is a **recipe page** for a simple omelette, built using **HTML** an
 2. Open `index.html` in a web browser to view the recipe page.
 
 ## 📷 Preview
+**Desktop Preview**
 ![Omelette Recipe - Desktop](design/desktop-design.jpg)
+
+**Mobile Preview**
 ![Omelette Recipe - Mobile](design/mobile-design.jpg)
 
 ## 🌐 Live Demo
